@@ -8,6 +8,7 @@ Vulkan 作为新一代的图形 API，其本身入门的门槛相对于老前辈
 
 本书是为了补充原教程中一些没有提到方面，以及自己在学习相关章节时收集的资料和思考，大家可以在学习原版教程中作为补充。
 
+> 在线阅读地址: [https://zhaosiwen1949.github.io/Vulkan-Tutorial-Notebook/](https://zhaosiwen1949.github.io/Vulkan-Tutorial-Notebook/)  
 > 原文地址：[Vulkan Tutorial（https://vulkan-tutorial.com/）](https://vulkan-tutorial.com/)  
 > 中文版地址：[Vulkan 编程指南（https://github.com/fangcun010/VulkanTutorialCN）](https://github.com/fangcun010/VulkanTutorialCN)
 
